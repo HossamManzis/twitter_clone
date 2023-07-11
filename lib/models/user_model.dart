@@ -1,5 +1,6 @@
 import 'package:flutter/foundation.dart';
 
+//1
 @immutable
 class UserModel {
   final String email;
