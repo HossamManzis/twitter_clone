@@ -49,7 +49,6 @@ class _CreateTweetScreenState extends ConsumerState<CreateTweetScreen> {
     setState(() {});
   }
 
-//1
   @override
   Widget build(BuildContext context) {
     final currentUser = ref.watch(currentUserDetailsProvider).value;

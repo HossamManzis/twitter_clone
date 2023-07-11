@@ -80,7 +80,6 @@ class AuthController extends StateNotifier<bool> {
     );
   }
 
-
   void login({
     required String email,
     required String password,

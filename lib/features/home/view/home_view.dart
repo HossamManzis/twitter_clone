@@ -6,7 +6,6 @@ import 'package:twitter_clone/features/home/widgets/side_drawer.dart';
 import 'package:twitter_clone/features/tweet/views/create_tweet_view.dart';
 import 'package:twitter_clone/theme/pallete.dart';
 
-
 class HomeView extends StatefulWidget {
   static route() => MaterialPageRoute(
         builder: (context) => const HomeView(),
